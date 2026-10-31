@@ -1,0 +1,7 @@
+num=int(input("enter age"))
+print(num)
+age=str(num)
+print(type(age))
+print("thankyou")
+calculation=(1+2+3+4+5+6)
+print(calculation)
